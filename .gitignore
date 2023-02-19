@@ -6,3 +6,6 @@ obj
 
 # Project
 out
+
+arch/
+.vscode
